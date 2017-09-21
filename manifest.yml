@@ -1,6 +1,6 @@
 applications:
 - path: .
-  memory: 102400000M
+  memory: 1024M
   instances: 1
   domain: mybluemix.net
   name: InterfacepocNew
